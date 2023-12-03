@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yah Xuan Leong</h1>
-<h3 align="center">Junior studying Computer Science and Information Engineering</h3>
+<h3 align="center">studying Computer Science and Information Engineering</h3>
 <h3 align="center">at National Taiwan University of Science and Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxleong&label=Profile%20views&color=0e75b6&style=flat" alt="yxleong" /> </p>
